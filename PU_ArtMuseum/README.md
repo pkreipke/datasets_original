@@ -114,7 +114,11 @@ This is a table of the art objects' geographic information. Geo info is only ver
 
 
 # Possible Projects
-- charts: count by types, t
+- charts: 
+  - count by object types, 
+  - scrollable, zoomable timeline of art, 
+  - map of origins (weak, not much data), 
+  - animated map of locations by time (see art develop and spread over time? Collection not big enough?)
 - simply provide a REST API to the data for others to re-use
 - iOS app for browsing?
 - if more detailed location information was available map the art with Google Maps
