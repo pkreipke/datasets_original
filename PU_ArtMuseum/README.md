@@ -114,7 +114,11 @@ This is a table of the art objects' geographic information. Geo info is only ver
 
 
 # Possible Projects
-
+- charts: count by types, t
 - simply provide a REST API to the data for others to re-use
 - iOS app for browsing?
 - if more detailed location information was available map the art with Google Maps
+- ranking/rating for machine learning of art vocabulary and user preferences using A|B testing
+- common cataloging system to enable other local places to add their art: Morven, Princeton Historical Society, Drumtwacket, etc
+
+What would most directly benefit the community?
